@@ -1,6 +1,6 @@
 # Curso - Empréstimos Online
 
-## Tecnologias e versões utilizadas
+## Tecnologias utilizadas
 *   ASP.NET Core
 *   Entity Framework Core
 *   SQL Server
